@@ -5,4 +5,3 @@ metadata:
 spec:
   targets:
     - ./docs-template/docs-template.yaml
-    - ./bwce-template-bookstore-main/create-secret-scaffolder-template.yaml
