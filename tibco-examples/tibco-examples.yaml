@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: example-templates-locations
+  name: test-example-templates-locations
 spec:
   targets:
     - ./bwce-template-bookstore-main/create-secret-scaffolder-template.yaml
